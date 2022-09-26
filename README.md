@@ -3,5 +3,5 @@ Doing some more Odin Project lessons!
 
 
 
-Learnings:
+#Learnings:
 - Setting up a basic site with links and images
