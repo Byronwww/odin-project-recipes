@@ -1,0 +1,31 @@
+body{
+    background-color:lightslategray;
+    font-family: sans-serif
+}
+
+h1{
+    color: white;
+    font-style: italic;
+}
+
+h2{
+    color: orange;
+    font-family:'Times New Roman', Times, serif
+}
+
+p{
+    color: azure;
+}
+
+li{
+    color: whitesmoke;
+    font-weight: 400;    
+}
+
+a{
+    color: aquamarine;
+}
+
+img{
+    border-radius: 50%;
+}
